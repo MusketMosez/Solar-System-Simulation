@@ -1,0 +1,11 @@
+{
+"companyName": "Nathan Moses",
+"productName": "Solar System Simulation",
+"dataUrl": "Solar System.data.unityweb",
+"asmCodeUrl": "Solar System.asm.code.unityweb",
+"asmMemoryUrl": "Solar System.asm.memory.unityweb",
+"asmFrameworkUrl": "Solar System.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
